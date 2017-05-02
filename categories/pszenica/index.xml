@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pszenica on Hleb</title>
+    <link>https://tillivet.github.io/breadblog/categories/pszenica/</link>
+    <description>Recent content in Pszenica on Hleb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 02 May 2017 13:32:28 +0200</lastBuildDate>
+    
+	<atom:link href="https://tillivet.github.io/breadblog/categories/pszenica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pszeniczny razowy</title>
+      <link>https://tillivet.github.io/breadblog/post/pszeniczny-razowy/</link>
+      <pubDate>Tue, 02 May 2017 13:32:28 +0200</pubDate>
+      
+      <guid>https://tillivet.github.io/breadblog/post/pszeniczny-razowy/</guid>
+      <description>Dzis degustowalam chleb pszeniczny, z 50% razowej maki i rodzynkami, przepis z ksiazki Hamelmana. Bochenka jest niewysoka i nie zbyt ladna. Naciecia nie otworzyli sie, ich calkiem nie widac na wypieczonym chlebie. Skorka jest cienka, chrupiaca i ma ladny brazowy kolor. Miekisz ma male rowne dziury, ale nie jest zbyt zbity. Chleb ma typowy smak pszenicznego razowego chleba, rodzynki dodaja slodkich nut i lekkosci.</description>
+    </item>
+    
+  </channel>
+</rss>
